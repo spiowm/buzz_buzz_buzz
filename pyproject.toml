@@ -1,0 +1,15 @@
+[project]
+name = "buzz-buzz-buzz"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.4.0",
+    "opencv-python-headless>=4.11.0.86",
+    "pandas>=2.3.3",
+    "pymongo>=4.15.5",
+    "python-dotenv>=1.2.1",
+    "streamlit>=1.52.2",
+    "ultralytics>=8.3.243",
+    "watchdog>=6.0.0",
+]
